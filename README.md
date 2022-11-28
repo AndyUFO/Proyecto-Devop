@@ -15,10 +15,14 @@
 ##Pipeline de despliegue automático
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
-![Ejecucion pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
+![Imagen pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
 
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
-![Ejecucion pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+![Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+
 
 
 
