@@ -12,7 +12,7 @@
 ![Ejecucion Terraform](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/image.png)
 
 
-### Pipeline de despliegue automático / Despliegue 
+### Pipeline de despliegue automático
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
 ![Imagen pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
@@ -20,8 +20,11 @@
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
 ![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
 
-![Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
 
+### Despliegue
+![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue.png)
 
 
 
