@@ -3,11 +3,25 @@
 ##Prácticas ágiles 
 [Repositorio](https://github.com/users/AndyUFO/projects/3)
 
-![Tablero Kanban](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/tablero.png)
+![Imagen Tablero Kanban](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/tablero.png)
 
 ##Generación de plantilla de infraestructura a través de Terraform
 
 [Repositorio](https://github.com/AndyUFO/myAPI-terraform)
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/image.png)
+![Ejecucion Terraform](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/image.png)
+
+
+##Pipeline de despliegue automático
+
+[Repositorio books] (https://github.com/AndyUFO/myAPI-books)
+![Ejecucion pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
+
+[Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
+![Ejecucion pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+
+
+
+
 
