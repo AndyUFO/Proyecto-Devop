@@ -3,7 +3,7 @@
 ### Prácticas ágiles 
 [Tablero del proyecto](https://github.com/users/AndyUFO/projects/3)
 
-![Imagen Tablero Kanban](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/tablero.png)
+![Imagen Tablero Kanban](https://raw.githubusercontent.com/AndyUFO/Proyecto-Devop/main/assets/tablero.png)
 
 ### Generación de plantilla de infraestructura a través de Terraform / Construcción de imagen de Docker 
 
