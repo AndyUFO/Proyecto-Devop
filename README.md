@@ -7,6 +7,7 @@
 ## Descripción del proyecto
 <div id='descripcion'/>
 El presente proyecto muestra la implementación de agilidad de las herramientas y aplicaciones utilizadas durante el curso de Desarrollo de software Ágil y está enfocado en los proyectos vistos en clase:
+
 * [myAPI-terraform](https://github.com/AndyUFO/myAPI-terraform) - Generación de infraestructura mediante codigo
 
 * [myAPI-books](https://github.com/AndyUFO/myAPI-books) - app de ejemplo books
@@ -63,6 +64,9 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ![Imagen pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
 
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
+![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+[Repositorio pet-clinic] (https://github.com/AndyUFO/myAPI-accounts)
 ![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
 
 
