@@ -73,7 +73,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ### Despliegue
 ![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
 
-![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue.png)
+![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/contenedoresGenerados.png)
 
 
 
