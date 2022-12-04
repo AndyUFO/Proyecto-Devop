@@ -2,7 +2,9 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-### Prácticas ágiles 
+### 01 Prácticas ágiles 
+Nombre del proyecto : Desarrollo de software agil (Devops)
+Descripci
 [Tablero del proyecto](https://github.com/users/AndyUFO/projects/3)
 
 ![Imagen Tablero Kanban](https://raw.githubusercontent.com/AndyUFO/Proyecto-Devop/main/assets/tablero.png)
