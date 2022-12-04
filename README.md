@@ -67,7 +67,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
 
 [Repositorio pet-clinic] (https://github.com/AndyUFO/myAPI-accounts)
-![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+![Imagen pipeline pet-clinic](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinePetClinic.png)
 
 
 ### Despliegue
