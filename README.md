@@ -1,22 +1,63 @@
-### Proyecto-Devop
+## Proyecto-Devop
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+## Estado del proyecto 
+<div id='estado'/>
+:heavy_check_mark:Proyecto Terminado:heavy_check_mark:
 
-### 01 Prácticas ágiles 
-Nombre del proyecto : Desarrollo de software agil (Devops)
-Descripci
+## Descripción del proyecto
+<div id='descripcion'/>
+El presente proyecto muestra la implementación de agilidad de las herramientas y aplicaciones utilizadas durante el curso de Desarrollo de software Ágil y está enfocado en los proyectos vistos en clase:
+* [myAPI-terraform](https://github.com/AndyUFO/myAPI-terraform) - Generación de infraestructura mediante codigo
+
+* [myAPI-books](https://github.com/AndyUFO/myAPI-books) - app de ejemplo books
+
+* [myAPI-accounts](https://github.com/AndyUFO/myAPI-accounts) - app de ejemplo accounts
+
+* [pet-clinic](https://github.com/AndyUFO/pet-clinic) - app de ejemplo pet-clinic
+
+## Indice
+<div id='indice'/>
+
+*[Índice](#indice)
+
+*[Descripción del proyecto](#descripcion)
+
+*[Estado del proyecto](#estado)
+
+*[Practicas Agiles](#practicas)
+
+*[Generación de plantilla de infraestructura a través de Terraform / Construcción de imagen de Docker](#plantilla)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
+
+<div id='practicas'/>
+
+## 01 Prácticas ágiles 
+
 [Tablero del proyecto](https://github.com/users/AndyUFO/projects/3)
 
 ![Imagen Tablero Kanban](https://raw.githubusercontent.com/AndyUFO/Proyecto-Devop/main/assets/tablero.png)
 
-### Generación de plantilla de infraestructura a través de Terraform / Construcción de imagen de Docker 
+<div id='plantilla'/>
+
+## Generación de plantilla de infraestructura a través de Terraform / Construcción de imagen de Docker 
 
 [Repositorio de infraestructura](https://github.com/AndyUFO/myAPI-terraform)
 
 ![Ejecucion Terraform](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/image.png)
 
 
-### Pipeline de despliegue automático
+## Pipeline de despliegue automático
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
 ![Imagen pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
@@ -32,7 +73,7 @@ Descripci
 
 
 
-
+#Título-e-imagen-de-portada
 
 
 
