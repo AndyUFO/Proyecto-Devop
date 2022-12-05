@@ -1,9 +1,20 @@
 # Proyecto-Devop
 
-# Indice
-<div id='indice'/>
+<div id='descripcion'/>
 
-*[Índice](#indice)
+# Descripción del proyecto
+
+El presente proyecto muestra la implementación de agilidad de las herramientas y aplicaciones utilizadas durante el curso de Desarrollo de software Ágil y está enfocado en los proyectos vistos en clase:
+
+* [myAPI-terraform](https://github.com/AndyUFO/myAPI-terraform) - Generación de infraestructura mediante codigo
+
+* [myAPI-books](https://github.com/AndyUFO/myAPI-books) - app de ejemplo books
+
+* [myAPI-accounts](https://github.com/AndyUFO/myAPI-accounts) - app de ejemplo accounts
+
+* [pet-clinic](https://github.com/AndyUFO/pet-clinic) - app de ejemplo pet-clinic
+
+# Indice
 
 *[Descripción del proyecto](#descripcion)
 
@@ -28,18 +39,6 @@
 # Estado del proyecto 
 <div id='estado'/>
 :heavy_check_mark:Proyecto Terminado:heavy_check_mark:
-
-# Descripción del proyecto
-<div id='descripcion'/>
-El presente proyecto muestra la implementación de agilidad de las herramientas y aplicaciones utilizadas durante el curso de Desarrollo de software Ágil y está enfocado en los proyectos vistos en clase:
-
-* [myAPI-terraform](https://github.com/AndyUFO/myAPI-terraform) - Generación de infraestructura mediante codigo
-
-* [myAPI-books](https://github.com/AndyUFO/myAPI-books) - app de ejemplo books
-
-* [myAPI-accounts](https://github.com/AndyUFO/myAPI-accounts) - app de ejemplo accounts
-
-* [pet-clinic](https://github.com/AndyUFO/pet-clinic) - app de ejemplo pet-clinic
 
 <div id='practicas'/>
 
