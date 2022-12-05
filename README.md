@@ -60,20 +60,23 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 ## Pipeline de despliegue automático
 
-[Repositorio books] (https://github.com/AndyUFO/myAPI-books)
-
-
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
 
-[accounts.webm](https://user-images.githubusercontent.com/15675318/205526364-82398c98-59d9-4cb2-9f1a-fa7aa835ab95.webm)
+[pipeline accounts](https://user-images.githubusercontent.com/15675318/205526364-82398c98-59d9-4cb2-9f1a-fa7aa835ab95.webm)
 
+[Repositorio books] (https://github.com/AndyUFO/myAPI-books)
 
-[Repositorio pet-clinic] (https://github.com/AndyUFO/myAPI-accounts)
+[pipeline books.webm](https://user-images.githubusercontent.com/15675318/205526602-72dc5c12-2be5-4cac-bc6d-c5f3b815b3ca.webm)
 
+[Repositorio pet-clinic] (https://github.com/AndyUFO/pet-clinic)
+
+[pipeline petclinic](https://user-images.githubusercontent.com/15675318/205548787-83895ef7-5210-4c69-8a9c-840b8343ede9.webm)
 
 
 ### Despliegue
-![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue1.png)
-![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue2.png)
-![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/contenedoresGenerados.png)
+
+![Total de contenedores desplegados](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/contenedoresGenerados.png)
+
+[Aplicacion pet clinic funcionando ](https://user-images.githubusercontent.com/15675318/205549227-1954e179-4058-4048-8849-78fb117bbad6.webm)
+
 
