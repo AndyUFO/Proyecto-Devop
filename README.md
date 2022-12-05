@@ -111,8 +111,11 @@ Ejecución del job
 
 # Despliegue
 
+Contenedores generados despues de la ejecución de las aplicaciones Accounts,Books y PetClinic
+
 ![Total de contenedores desplegados](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/contenedoresGenerados.png)
 
+Pruebas dentro de la aplicación petClinic
 [Aplicacion pet clinic funcionando ](https://user-images.githubusercontent.com/15675318/205549227-1954e179-4058-4048-8849-78fb117bbad6.webm)
 
 <div id='escaneo'/>
