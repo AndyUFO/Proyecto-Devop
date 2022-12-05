@@ -18,7 +18,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 *[Descripción del proyecto](#descripcion)
 
-*[Estado del proyecto](#estado)
+*[Objetivos](#objetivos)
 
 *[Practicas Agiles](#practicas)
 
@@ -36,9 +36,12 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 *[Conclusión](#conclusión)
 
-# Estado del proyecto 
-<div id='estado'/>
-:heavy_check_mark:Proyecto Terminado:heavy_check_mark:
+<div id='objetivos'/>
+
+# Objetivos
+* Crear infraestructura con terraform
+* Crear pipelines basado en SCM Git usando Jenkinsfile
+* Escaneo vulnerabilidades OWASP Zap con Jenkins
 
 <div id='practicas'/>
 
