@@ -39,6 +39,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 <div id='objetivos'/>
 
 # Objetivos
+* Uso de metodoologias agiles para el desarrollo de proyectos
 * Crear infraestructura con terraform
 * Crear pipelines basado en SCM Git usando Jenkinsfile
 * Escaneo vulnerabilidades OWASP Zap con Jenkins
@@ -49,7 +50,8 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 [Tablero del proyecto](https://github.com/users/AndyUFO/projects/3)
 
-![Imagen Tablero Kanban](https://raw.githubusercontent.com/AndyUFO/Proyecto-Devop/main/assets/tablero.png)
+![tablero](https://user-images.githubusercontent.com/15675318/205558051-de2449fb-7ec1-480d-a42d-0818ebb22dff.png)
+
 
 <div id='plantilla'/>
 
