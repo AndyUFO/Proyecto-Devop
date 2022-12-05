@@ -66,6 +66,10 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ## Pipeline Accounts
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
 
+![ccountsConfig](https://user-images.githubusercontent.com/15675318/205558308-764ec7da-3091-44d3-84dd-c875c928539a.png)
+
+![consolaAccounts](https://user-images.githubusercontent.com/15675318/205558341-2d0764c0-9424-4061-8a01-4c3110bf426b.png)
+
 [pipeline accounts](https://user-images.githubusercontent.com/15675318/205526364-82398c98-59d9-4cb2-9f1a-fa7aa835ab95.webm)
 
 ## Pipeline Books
