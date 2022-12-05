@@ -26,7 +26,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 *[Pipeline de despliegue automático](#pipeline)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+*[Despliegue](#despliegue)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
 
@@ -94,6 +94,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 [pipeline petclinic](https://user-images.githubusercontent.com/15675318/205548787-83895ef7-5210-4c69-8a9c-840b8343ede9.webm)
 
+<div id='despliegue'/>
 
 # Despliegue
 
