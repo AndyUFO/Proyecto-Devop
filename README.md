@@ -61,22 +61,19 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ## Pipeline de despliegue automático
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
-![Imagen pipeline accounts](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/PipelineAccounts.png)
+
 
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
-![Imagen pipeline books](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinebooks.png)
+
+[accounts.webm](https://user-images.githubusercontent.com/15675318/205526364-82398c98-59d9-4cb2-9f1a-fa7aa835ab95.webm)
+
 
 [Repositorio pet-clinic] (https://github.com/AndyUFO/myAPI-accounts)
-![Imagen pipeline pet-clinic](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/pipelinePetClinic.png)
+
 
 
 ### Despliegue
 ![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue1.png)
 ![Imagen de Pipeline en Jenkins](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/despliegue2.png)
 ![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/contenedoresGenerados.png)
-![Imagen de Despliegue de contenedores](https://github.com/AndyUFO/Proyecto-Devop/main/assets/capture.mp4)
-
-
-
-
 
