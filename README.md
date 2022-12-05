@@ -76,6 +76,10 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
 
+![configuracionPipelineBooks](https://user-images.githubusercontent.com/15675318/205558463-070ec300-e8b2-4fb1-a4ec-2b18f6995283.png)
+
+![consolaBooks](https://user-images.githubusercontent.com/15675318/205558450-90788a4f-8d6e-45bc-9fe3-3ed17ea7ac84.png)
+
 [pipeline books.webm](https://user-images.githubusercontent.com/15675318/205526602-72dc5c12-2be5-4cac-bc6d-c5f3b815b3ca.webm)
 
 ## Pipeline Pet Clinic
