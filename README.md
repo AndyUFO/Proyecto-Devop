@@ -100,7 +100,10 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 <div id='escaneo'/>
 
 # Escaneo vulnerabilidades OWASP Zap con Jenkins
-
+Modificación del pom.mxl del proyecto petclinic
+![pom](https://user-images.githubusercontent.com/15675318/205559658-c7b71fd3-60af-4da4-94df-e9e49495d684.png)
+Modificación jenkins file del proyecto petclinic
+![jenkins](https://user-images.githubusercontent.com/15675318/205559777-86394564-d6af-41fa-9b95-159af0dfcad9.png)
 [rec-screen (5).webm](https://user-images.githubusercontent.com/15675318/205559229-4f29cf3e-7b52-489e-92ea-9e98ee83150e.webm)
 
 
