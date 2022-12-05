@@ -24,7 +24,7 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 *[Generación de plantilla de infraestructura a través de Terraform / Construcción de imagen de Docker](#plantilla)
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Pipeline de despliegue automático](#pipeline)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -60,6 +60,8 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 [Repositorio de infraestructura](https://github.com/AndyUFO/myAPI-terraform)
 
 ![Ejecucion Terraform](https://github.com/AndyUFO/Proyecto-Devop/blob/main/assets/image.png)
+
+<div id='pipeline'/>
 
 # Pipeline de despliegue automático
 
