@@ -63,9 +63,15 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 ## Pipeline Accounts
 [Repositorio accounts] (https://github.com/AndyUFO/myAPI-accounts)
 
+Configuracion del Pipeline
+
 ![ccountsConfig](https://user-images.githubusercontent.com/15675318/205558308-764ec7da-3091-44d3-84dd-c875c928539a.png)
 
+Consola 
+
 ![consolaAccounts](https://user-images.githubusercontent.com/15675318/205558341-2d0764c0-9424-4061-8a01-4c3110bf426b.png)
+
+Ejecución del job
 
 [pipeline accounts](https://user-images.githubusercontent.com/15675318/205526364-82398c98-59d9-4cb2-9f1a-fa7aa835ab95.webm)
 
@@ -73,9 +79,15 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 [Repositorio books] (https://github.com/AndyUFO/myAPI-books)
 
+Configuracion del Pipeline
+
 ![configuracionPipelineBooks](https://user-images.githubusercontent.com/15675318/205558463-070ec300-e8b2-4fb1-a4ec-2b18f6995283.png)
 
+Consola 
+
 ![consolaBooks](https://user-images.githubusercontent.com/15675318/205558450-90788a4f-8d6e-45bc-9fe3-3ed17ea7ac84.png)
+
+Ejecución del job
 
 [pipeline books.webm](https://user-images.githubusercontent.com/15675318/205526602-72dc5c12-2be5-4cac-bc6d-c5f3b815b3ca.webm)
 
@@ -83,9 +95,15 @@ El presente proyecto muestra la implementación de agilidad de las herramientas 
 
 [Repositorio pet-clinic] (https://github.com/AndyUFO/pet-clinic)
 
+Configuracion del Pipeline
+
 ![configuracionPipeline](https://user-images.githubusercontent.com/15675318/205550435-7e13a7da-9358-415f-9ee6-bf05be1e285a.png)
 
+Consola 
+
 ![consolaPetClinic](https://user-images.githubusercontent.com/15675318/205550396-80049900-757d-4fd8-ab4e-442d4914262e.png)
+
+Ejecución del job
 
 [pipeline petclinic](https://user-images.githubusercontent.com/15675318/205548787-83895ef7-5210-4c69-8a9c-840b8343ede9.webm)
 
